@@ -93,7 +93,7 @@ nav ul li a:hover {
 footer {
   font-size: 40px;
   color: white;
-  background-image: url(/CSS/IMG/footer_img.jpg);
+  background-image: url(IMG/footer_img.jpg);
   height: 310px;
   background-size: cover;
   /* filter: blur(); */

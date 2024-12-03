@@ -11,13 +11,13 @@
     background-size: cover;
 }
 .img1{
-    background-image: url('/CSS/IMG/receipes_img/1.webp');
+    background-image: url('IMG/receipes_img/1.webp');
 }
 .img2{
-    background-image: url('/CSS/IMG/receipes_img/2.webp');
+    background-image: url('IMG/receipes_img/2.webp');
 }
 .img3{
-    background-image: url('/CSS/IMG/receipes_img/3.jpg');
+    background-image: url('IMG/receipes_img/3.jpg');
 }
 h2{
     font-size: 35px;
