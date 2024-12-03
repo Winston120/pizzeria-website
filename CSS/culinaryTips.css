@@ -1,0 +1,27 @@
+.recipes-item{
+    display: grid;
+    gap: 40px;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+}
+.recipes_img{    
+    height: 560px;
+    border-radius: 15px;
+    border: 3px solid black;
+    background-size: cover;
+}
+.img1{
+    background-image: url('/CSS/IMG/receipes_img/1.webp');
+}
+.img2{
+    background-image: url('/CSS/IMG/receipes_img/2.webp');
+}
+.img3{
+    background-image: url('/CSS/IMG/receipes_img/3.jpg');
+}
+h2{
+    font-size: 35px;
+}
+p{
+    font-size: 25px;
+}

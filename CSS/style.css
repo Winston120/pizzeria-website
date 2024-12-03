@@ -1,0 +1,65 @@
+  .slider{
+    background-color: #FFF8F7;
+    background-image: url(./IMG/Найцікавіше.jpg);
+    background-size: cover;
+    height: 620px;
+  }
+
+
+
+
+  .categories{
+    background-color: #FFF8F7;
+    padding: 50px 150px;
+  }
+  h2{
+    margin: 0;
+    font-size: 60px;
+    font-weight: normal;
+  }
+  .categories_conteiner{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  .categorie{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .categorie img{
+    width: 125px;
+    height: 125px;
+  }
+  .categorie p{
+    font-size: 25px;
+  }
+  
+
+  .menu{
+    padding: 50px 150px;
+  }
+  .menu_container{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu-item{
+    width: 297px;
+    height: 390px;
+    font-size: 24px;
+    position: relative;
+    padding-bottom: 50px;
+  }
+  .read_more{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    text-decoration: none;
+    color: black;
+  }
+  .read_more:hover{
+    color: #d83d3d
+  }
+
+  
